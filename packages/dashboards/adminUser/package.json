@@ -1,0 +1,5 @@
+{
+  "name": "@monorepo/dashboard-admin-user",
+  "version": "0.1.0",
+  "main": "./index.jsx"
+}

@@ -1,0 +1,6 @@
+#For node
+node_modules
+package-lock.json
+
+#For webpack
+dist
